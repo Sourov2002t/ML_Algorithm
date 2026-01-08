@@ -6,26 +6,26 @@ This repository contains multiple machine learning notebooks covering supervised
 
 1️⃣ Regression Analysis – Bike Demand Prediction
 
-File: Regression(BIKE).ipynb
+## File: Regression(BIKE).ipynb
 
-Algorithm Used:
+# Algorithm Used:
 
 Linear Regression
 
 Multiple Linear Regression
 
-Problem Statement:
+## Problem Statement:
 Predict bike rental demand based on environmental and seasonal factors such as temperature, humidity, and time-related variables.
 
-What This Demonstrates:
+## What This Demonstrates:
 
-Feature selection and scaling
+# Feature selection and scaling
 
 Relationship between independent variables and continuous output
 
 Model evaluation using error metrics
 
-Use Cases:
+# Use Cases:
 
 Demand forecasting
 
@@ -35,16 +35,16 @@ Pricing and operations optimization
 
 2️⃣ Unsupervised Learning – Clustering Analysis
 
-File: Unsupervised.ipynb
+## File: Unsupervised.ipynb
 
-Algorithm Used:
+# Algorithm Used:
 
 K-Means Clustering
 
-Problem Statement:
+## Problem Statement:
 Identify hidden patterns and natural groupings in unlabeled data without predefined output variables.
 
-What This Demonstrates:
+## What This Demonstrates:
 
 Data normalization
 
@@ -52,7 +52,7 @@ Choosing optimal number of clusters
 
 Pattern discovery without supervision
 
-Use Cases:
+# Use Cases:
 
 Customer segmentation
 
@@ -62,16 +62,16 @@ Market and trend discovery
 
 3️⃣ Classification – Magic Dataset Analysis
 
-File: Magic.ipynb
+## File: Magic.ipynb
 
-Algorithm Used:
+# Algorithm Used:
 
 Classification models (Logistic Regression / KNN / Tree-based models)
 
-Problem Statement:
+## Problem Statement:
 Classify observations into predefined categories based on input features.
 
-What This Demonstrates:
+## What This Demonstrates:
 
 Data preprocessing and label handling
 
@@ -79,7 +79,7 @@ Model training and testing
 
 Accuracy and performance evaluation
 
-Use Cases:
+# Use Cases:
 
 Signal vs noise detection
 
